@@ -2,4 +2,4 @@
 
 # install composer
 
-erro / link db ??
+i am fixed probleme / db done !!
